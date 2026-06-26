@@ -2,10 +2,15 @@
 
 FlowFund is a mini end-to-end Stellar + Soroban dApp: a crowdfunding / donation platform backed by a deployed Soroban smart contract on Stellar Testnet, with live progress driven by periodic on-chain reads, transaction lifecycle feedback, and a clean Next.js 16 / React 19 frontend.
 
+## Links
+
+- Live demo: https://flowfund-one.vercel.app/
+- Demo video: https://drive.google.com/file/d/1nTqfyf2n4vHKKmiYL8z8zwOIdh7NJ7jn/view?usp=sharing
+
 ## Submission Checklist (fill before submitting)
 
-- Live demo link: update after FlowFund web redeploy
-- Demo video (1 minute) link: https://drive.google.com/file/d/1dFeg8Ik0mn7KfHMuFhhfVLJVmekP0H8L/view?usp=sharing
+- Live demo link: https://flowfund-one.vercel.app/
+- Demo video (1 minute) link: https://drive.google.com/file/d/1nTqfyf2n4vHKKmiYL8z8zwOIdh7NJ7jn/view?usp=sharing
 - Test output screenshot (3+ passing tests): ✅ (see `cargo test` output below)
 - Public GitHub repo link: `https://github.com/indra0605/flowfund`
 - 3+ meaningful commits for Level 3: ✅
@@ -91,7 +96,7 @@ Full deployment record (tx hashes, WASM hash, source account, timestamps) lives 
 
 ## Live Demo
 
-Update after FlowFund web redeploy.
+https://flowfund-one.vercel.app/
 
 ## Setup
 
