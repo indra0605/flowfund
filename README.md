@@ -47,24 +47,28 @@ This project demonstrates:
   <tr>
     <td align="center" width="50%">
       <strong>🏠 Home Feed</strong><br/><br/>
-      <em><img width="2032" height="1161" alt="2026-06-19_08-57-42" src="https://github.com/user-attachments/assets/f1eab0bd-8d01-4f69-94e3-ac7185000251" />
+      <em><img width="1876" height="1005" alt="screenshot_visible_2026-06-26_23-09-19" src="https://github.com/user-attachments/assets/bb00e80b-3536-48f1-909d-53ad397bc527" />
+
 </em>
     </td>
     <td align="center" width="50%">
       <strong>📝 Stellar Wallet Kit</strong><br/><br/>
-      <em><img width="1877" height="1006" alt="2026-06-19_08-31-14" src="https://github.com/user-attachments/assets/6857daf7-a1cf-499e-8f3c-b5fced4b5009" />
+      <em><img width="1876" height="1005" alt="screenshot_visible_2026-06-26_23-09-43" src="https://github.com/user-attachments/assets/7fef392c-786c-4613-980b-d1006472f85c" />
+
 </em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>💸 Donate</strong><br/><br/>
-      <em><img width="1877" height="1006" alt="2026-06-19_08-31-14" src="https://github.com/user-attachments/assets/c5299192-53b4-4a1f-aa85-04f572c40cc7" />
+      <strong>💸 Create</strong><br/><br/>
+      <em><img width="1876" height="1005" alt="screenshot_visible_2026-06-26_23-10-01" src="https://github.com/user-attachments/assets/b60bb4e5-e28e-4445-bebe-5c4d6ef26e7e" />
+
 </em>
     </td>
     <td align="center" width="50%">
       <strong>✅ CI Results</strong><br/><br/>
-      <em>Replace with: green GitHub Actions run for `web (typecheck + lint + build)` and `contract (build + test)`</em>
+      <em><img width="1876" height="1005" alt="screenshot_visible_2026-06-26_23-10-33" src="https://github.com/user-attachments/assets/7dcfe648-bd47-4f20-8443-56b4c6066e6e" />
+</em>
     </td>
   </tr>
 </table>
@@ -72,7 +76,8 @@ This project demonstrates:
 ## Mobile responsive screenshot
 
 <div align="center">
-<em>Replace with: a phone-width screenshot (≈ 389 × 700) of the home feed captured from the browser dev tools or a real device.</em>
+<em><img width="364" height="918" alt="image" src="https://github.com/user-attachments/assets/c99b03f9-72d2-487a-90ed-b4e33454fba1" />
+</em>
 </div>
 
 ## Deployed Contract
@@ -201,10 +206,6 @@ This is a standard Next.js 16 build.
 - **Build command:** `npm --prefix web run build`
 - **Output directory:** `.next` (Next.js default; Vercel picks this up automatically)
 - **Env vars:** set the three `NEXT_PUBLIC_*` vars from the section above (at minimum `NEXT_PUBLIC_CONTRACT_ID` if you deploy a new contract)
-
-## Demo Video (1 minute)
-
-https://drive.google.com/file/d/1dFeg8Ik0mn7KfHMuFhhfVLJVmekP0H8L/view?usp=sharing
 
 Suggested walkthrough:
 
